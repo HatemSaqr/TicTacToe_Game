@@ -1,0 +1,3 @@
+G:\Downloads\windows_app\TicTacToe_Game\TicTacToe_Game\x64\Debug\TicTacToe_Game.vcxproj.AssemblyReference.cache
+G:\Downloads\windows_app\TicTacToe_Game\TicTacToe_Game\x64\Debug\TicTacToeGame.MyForm.resources
+G:\Downloads\windows_app\TicTacToe_Game\TicTacToe_Game\x64\Debug\TicTacToe_Game.vcxproj.GenerateResource.cache
